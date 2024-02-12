@@ -1,8 +1,8 @@
 {
-  "name": "Cyber-X WA BOT",
-  "description": "whatsapp md bot build with nodejs",
+  "name": "『 𝙼𝚁 Isuru 』T",
+  "description": "『 𝙼𝚁 Isuru 』",
   "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
-  "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+  "logo": "https://telegra.ph/file/652c318f41d812c6d598d.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
